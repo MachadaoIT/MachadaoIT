@@ -1,28 +1,85 @@
-Leandro Machado
-Olá! Eu sou o Leandro Machado, um jovem de 22 anos apaixonado por tecnologia. Meu coração bate por redes, automação e cibersegurança. Estou sempre explorando formas de tornar sistemas mais eficientes, seguros e inteligentes. <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Olá!%20Bem-vindo%20ao%20meu%20Perfil!&animation=fadeIn&type=waving&color=gradient&height=120" alt="Header" width="600">
+</p>
 
-  Idade: 22 anos
-  Paixões: Redes, Automação e Cibersegurança
-  O que me motiva: Resolver problemas complexos e criar soluções que impactam positivamente o mundo da tecnologia.
-  Minha jornada começou com a curiosidade de entender como as coisas funcionam por trás dos bastidores. Hoje, dedico meu tempo a projetos que me desafiam e me permitem crescer como profissional e entusiasta.
+<p align="center">
+  <img src="https://example.com/sua-foto.jpg" alt="Foto de Perfil" width="150" style="border-radius:50%;">
+</p>
 
-  Aqui estão algumas das minhas competências técnicas:
+<h1 align="center">Leandro Machado</h1>
+<p align="center">
+  <em>Entusiasta de tecnologia | Redes | Automação | Cibersegurança</em>
+</p>
 
-  Linguagens de Programação: Python
-  Ferramentas de Automação: Ansible
-  Redes: TCP/IP, DNS
-  Cibersegurança: Fundamentos de criptografia
+---
 
-  Estes são alguns projetos que mostram meu trabalho e paixão:
+## 🚀 Sobre Mim
+Olá! Eu sou Leandro Machado, tenho 22 anos e sou apaixonado por tecnologia. Meu foco está em **redes**, **automação** e **cibersegurança**, áreas onde busco criar soluções inovadoras e resolver problemas complexos. Adoro explorar novas ferramentas e tecnologias para expandir meus conhecimentos e contribuir com projetos que fazem a diferença.
 
-  Fora do mundo tech, gosto de:
-    Ginásio
-    Xadrez
+---
 
-Acredito que essas paixões me ajudam a manter a mente aberta e criativa.
+## 🛠️ Habilidades
+Aqui estão algumas das minhas competências técnicas:
 
-Contato
-Quer trocar uma ideia ou colaborar em algo? Contacte-me:
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-E-mail: leandromachado@bestgest.pt
-LinkedIn: https://www.linkedin.com/in/leandro-machadotec
+### Ferramentas de Automação
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Conhecimentos em Redes
+- **TCP/IP**, **DNS**, **DHCP**
+- Configuração de roteadores e switches
+- Monitoramento de tráfego de rede
+
+### Cibersegurança
+- Fundamentos de criptografia
+- Análise de vulnerabilidades
+- Boas práticas de segurança
+
+---
+
+## 🌟 Projetos em Destaque
+Aqui estão alguns dos meus projetos favoritos:
+
+- **[Network Monitor](https://github.com/leandromachado/network-monitor)**  
+  Uma ferramenta para monitoramento de redes em tempo real, escrita em Python.  
+  _Tecnologias: Python, Scapy_
+
+- **[Automation Script](https://github.com/leandromachado/automation-script)**  
+  Script para automação de tarefas repetitivas em servidores.  
+  _Tecnologias: Bash, Ansible_
+
+- **[Cybersecurity Tool](https://github.com/leandromachado/cybersecurity-tool)**  
+  Uma ferramenta simples para análise de segurança e detecção de falhas.  
+  _Tecnologias: Python, Nmap_
+
+*(Substitua os links e descrições pelos seus projetos reais!)*
+
+---
+
+## 📫 Como me Contatar
+Fique à vontade para me encontrar ou enviar uma mensagem:
+
+- **Email**: leandromachado@example.com  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/leandromachado"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> Perfil LinkedIn</a>  
+- **Twitter/X**: <a href="https://www.x.com/leandromachado"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="20"/> Perfil X</a>  
+
+*(Atualize com seus links reais!)*
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandromachado&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromachado&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <em>"A tecnologia é melhor quando conecta pessoas e resolve problemas."</em>
+</p>
