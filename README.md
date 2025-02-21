@@ -42,19 +42,6 @@ Aqui estão algumas das minhas competências técnicas:
 ## 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[Network Monitor](https://github.com/leandromachado/network-monitor)**  
-  Uma ferramenta para monitoramento de redes em tempo real, escrita em Python.  
-  _Tecnologias: Python, Scapy_
-
-- **[Automation Script](https://github.com/leandromachado/automation-script)**  
-  Script para automação de tarefas repetitivas em servidores.  
-  _Tecnologias: Bash, Ansible_
-
-- **[Cybersecurity Tool](https://github.com/leandromachado/cybersecurity-tool)**  
-  Uma ferramenta simples para análise de segurança e detecção de falhas.  
-  _Tecnologias: Python, Nmap_
-
-*(Substitua os links e descrições pelos seus projetos reais!)*
 
 ---
 
