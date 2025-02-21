@@ -26,9 +26,6 @@ Aqui estão algumas das minhas competências técnicas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Ferramentas de Automação
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Conhecimentos em Redes
 - **TCP/IP**, **DNS**, **DHCP**
@@ -64,11 +61,8 @@ Aqui estão alguns dos meus projetos favoritos:
 ## 📫 Como me Contatar
 Fique à vontade para me encontrar ou enviar uma mensagem:
 
-- **Email**: leandromachado@example.com  
-- **LinkedIn**: <a href="https://www.linkedin.com/in/leandromachado"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> Perfil LinkedIn</a>  
-- **Twitter/X**: <a href="https://www.x.com/leandromachado"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="20"/> Perfil X</a>  
-
-*(Atualize com seus links reais!)*
+- **Email**: leandromachadoworkss@gmail.com  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/leandro-machadotec"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> Perfil LinkedIn</a>  
 
 ---
 
