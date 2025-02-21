@@ -1,5 +1,5 @@
 Leandro Machado
-Olá! Eu sou o Leandro Machado, um jovem de 22 anos apaixonado por tecnologia. Meu coração bate por redes, automação e cibersegurança. Estou sempre explorando formas de tornar sistemas mais eficientes, seguros e inteligentes.
+Olá! Eu sou o Leandro Machado, um jovem de 22 anos apaixonado por tecnologia. Meu coração bate por redes, automação e cibersegurança. Estou sempre explorando formas de tornar sistemas mais eficientes, seguros e inteligentes. <br>
 
   Idade: 22 anos
   Paixões: Redes, Automação e Cibersegurança
