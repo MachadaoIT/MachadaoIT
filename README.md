@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Olá!%20Bem-vindo%20ao%20meu%20Perfil!&animation=fadeIn&type=waving&color=gradient&height=120" alt="Header" width="600">
-</p>
-
-<p align="center">
-  <img src="https://example.com/sua-foto.jpg" alt="Foto de Perfil" width="150" style="border-radius:50%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bem-vindo%20ao%20meu%20Perfil!&reversal=true&fontAlign=50&animation=twinkling&textBg=false" alt="Header" width="600">
 </p>
 
 <h1 align="center">Leandro Machado</h1>
