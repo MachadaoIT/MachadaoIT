@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Leandro Machado**, tenho 22 anos e sou apaixonado por tecnologia. Especializo-me em **infraestrutura de redes**, **automação de sistemas** e **cibersegurança**. O meu objetivo é desenvolver soluções que otimizem processos, reforcem a segurança e garantam alta disponibilidade em ambientes corporativos.
+Olá! Sou **Leandro Machado**, sou apaixonado por tecnologia. Especializo-me em **infraestrutura de redes**, **automação de sistemas** e **cibersegurança**. O meu objetivo é desenvolver soluções que otimizem processos, reforcem a segurança e garantam alta disponibilidade em ambientes corporativos.
 
 🔹 Experiência em administração de sistemas **Windows Server** e **Linux**  
 🔹 Automação de tarefas com **PowerShell** e **Bash**  
